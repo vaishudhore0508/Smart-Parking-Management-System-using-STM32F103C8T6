@@ -16,14 +16,6 @@ This project is an automatic smart parking system designed to manage vehicle ent
 
 ![Smart Parking System Image 2](Image/WhatsApp%20Image%202026-07-25%20at%202.41.32%20PM.jpeg)
 
-## Video Demonstration
-
-A demo video for the project can be added here. Please place your video file in the Video folder and update this section with the correct file name.
-
-<video controls width="100%" poster="Image/WhatsApp%20Image%202026-07-25%20at%202.41.32%20PM.jpeg">
-  <source src="Video/your-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Source Code
 
